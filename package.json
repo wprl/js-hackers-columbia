@@ -1,0 +1,25 @@
+{
+  "name": "js-hackers-columbia",
+  "version": "0.0.0-33",
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "express": "~3.0.3",
+    "config": "~0.4.18"
+  },
+  "subdomain": "js-hackers-columbia",
+  "domains": [
+    "jshackerscolumbia.com",
+    "www.jshackerscolumbia.com"
+  ],
+  "engines": {
+    "node": "0.8.x"
+  },
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}

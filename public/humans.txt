@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    William P. Riley-Land -- @wprl
+
+# THANKS
+
+    Everyone who is making this meetup possible.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    bower, node.js,
+    MongoDB, Redis,
+    Backbone.js, Underscore.js,
+    express, git, bootstrap,
+    requireJS
+
+
